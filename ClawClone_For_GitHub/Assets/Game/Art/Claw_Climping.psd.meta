@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 67c0ea8139600d240a67e4a4e0c8eff5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5832580020098543997
+    second: Claw_Climping_0
+  - first:
+      213: -3163028664005627834
+    second: Claw_Climping_1
+  - first:
+      213: 5041464537368777773
+    second: Claw_Climping_2
+  - first:
+      213: 4786904055773525294
+    second: Claw_Climping_3
+  - first:
+      213: -5140329098709611230
+    second: Claw_Climping_4
+  - first:
+      213: -585816124771603841
+    second: Claw_Climping_5
+  - first:
+      213: -1196199129692272251
+    second: Claw_Climping_6
+  - first:
+      213: 8893341592176310236
+    second: Claw_Climping_7
+  - first:
+      213: 8036619423715129391
+    second: Claw_Climping_8
+  - first:
+      213: 8657929036879423713
+    second: Claw_Climping_9
+  - first:
+      213: 1013374691337541436
+    second: Claw_Climping_10
+  - first:
+      213: -7501284015118907385
+    second: Claw_Climping_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Claw_Climping_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 68
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71b30e30ac71f050800000000000000
+      internalID: 5832580020098543997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5
+        width: 63
+        height: 123
+      alignment: 9
+      pivot: {x: 0.53968257, y: 0.5243902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f093403aaa14d0800000000000000
+      internalID: -3163028664005627834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 64
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.4849624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2458913941e6f540800000000000000
+      internalID: 5041464537368777773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2
+        width: 68
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25f14a60ef7e6240800000000000000
+      internalID: 4786904055773525294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1
+        width: 68
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49615383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d4fca5be1e9a8b0800000000000000
+      internalID: -5140329098709611230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 6
+        width: 72
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.5375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aea4b9653ced7f0800000000000000
+      internalID: -585816124771603841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 14
+        width: 68
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5898f02ba3f366fe0800000000000000
+      internalID: -1196199129692272251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_7
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5
+        width: 63
+        height: 123
+      alignment: 9
+      pivot: {x: 0.53968257, y: 0.5243902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd730e32f0f7b6b70800000000000000
+      internalID: 8893341592176310236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 64
+        height: 133
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.4849624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287b8939cec78f60800000000000000
+      internalID: 8036619423715129391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2
+        width: 68
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8ecbd5694272870800000000000000
+      internalID: 8657929036879423713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_10
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1
+        width: 68
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49615383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c379b85a9ea301e00800000000000000
+      internalID: 1013374691337541436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claw_Climping_11
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 6
+        width: 72
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.5375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70885878ee516e790800000000000000
+      internalID: -7501284015118907385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

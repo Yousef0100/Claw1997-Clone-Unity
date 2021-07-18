@@ -195,6 +195,7 @@ GameObject:
   - component: {fileID: 7662637473163868555}
   - component: {fileID: 7662637473163868552}
   - component: {fileID: 7662637473163868566}
+  - component: {fileID: 1281098704458016475}
   m_Layer: 0
   m_Name: Captin Claw
   m_TagString: Player
@@ -361,7 +362,6 @@ MonoBehaviour:
   bonusClimpSpeed: 0
   offsetToLadders: -0.035
   snapForce: 2
-  minDistToLadders: 0.4
   canClickDown: 0
   canClickUp: 0
 --- !u!114 &7662637473163868566
@@ -382,3 +382,20 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 2304
+--- !u!114 &1281098704458016475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7662637473163868558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c94ee08ff3db2a4b8b7dfc2ad085ee5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainCamera: {fileID: 0}
+  cameraDepthOffset: 0
+  speed: 0
+  xBorders: []
+  yBorders: []
